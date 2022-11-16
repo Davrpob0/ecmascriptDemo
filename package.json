@@ -1,0 +1,16 @@
+{
+  "name": "ecmascriptdemo",
+  "version": "1.0.0",
+  "description": "Curso de paltzi, donde se aprende sobre ecmaScript y sus versiones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "academico"
+  ],
+  "author": "David Restrepo <davrpob@gmail.com>",
+  "license": "MIT"
+}
