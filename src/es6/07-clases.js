@@ -40,6 +40,7 @@ console.log(david.greeting2());
 //setters getters
 
 class usere {
+  //constructor
   constructor(name, age) {
     this.name = name;
     this.age = age;
